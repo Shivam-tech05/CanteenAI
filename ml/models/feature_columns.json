@@ -1,0 +1,22 @@
+[
+    "temperature",
+    "rainfall",
+    "is_holiday",
+    "previous_day_sales",
+    "previous_week_avg_sales",
+    "day_of_week_Friday",
+    "day_of_week_Monday",
+    "day_of_week_Saturday",
+    "day_of_week_Sunday",
+    "day_of_week_Thursday",
+    "day_of_week_Tuesday",
+    "day_of_week_Wednesday",
+    "food_item_Biryani",
+    "food_item_Dosa",
+    "food_item_Poha",
+    "food_item_Rice",
+    "food_item_Sandwich",
+    "event_Exam",
+    "event_Festival",
+    "event_Normal"
+]

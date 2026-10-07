@@ -377,14 +377,8 @@ The current version includes:
 
 Developed as a college AIML mini project.
 
-Add your team members and roll numbers here before final submission.
+Shivam Jaiswal
 
-Example:
-
-```text
-Name - Roll Number
-Name - Roll Number
-Name - Roll Number
 ```
 
 ---
